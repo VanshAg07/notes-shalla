@@ -327,7 +327,7 @@ cursor .4s step-end infinite alternate;
 .wrapper-btn{
 color: black;
 background-color: #66FCF1;
-   position: absolute;
+   position: fixed;
    float: right;
    margin-top: 44.5%;
    z-index: 1;
